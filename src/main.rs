@@ -1,5 +1,5 @@
 use rspotify::{
-    model::{AdditionalType, Country, CurrentlyPlayingContext, Market},
+    model::{AdditionalType, Country, Market},
     prelude::OAuthClient,
     scopes, AuthCodeSpotify, Credentials, OAuth,
 };
